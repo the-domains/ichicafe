@@ -1,0 +1,14 @@
+layout_spectrum: 0.9982079
+color:
+  saturation: 0.4462366
+  brandStrength: 1
+  lightness: 0.5860215
+  brandColors:
+    - '#272629'
+    - '#38426F'
+    - '#4265AB'
+    - '#883930'
+    - '#E8BEC5'
+  rhythmicContrast: 0.469534
+typography_spectrum: 0.2724014
+name: ichicafe
